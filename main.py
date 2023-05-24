@@ -3,7 +3,7 @@ import pygame
 
 pygame.font.init()
 Window = pygame.display.set_mode((500, 500))
-pygame.display.set_caption("SUDOKU GAME by DataFlair")
+pygame.display.set_caption("SUDOKU GAME")
 x = 0
 z = 0
 diff = 500 / 9
